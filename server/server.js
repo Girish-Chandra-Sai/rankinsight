@@ -5,6 +5,7 @@ const cors = require('cors');
 const collegeRoutes = require('./routes/collegeRoutes');
 const iitRoutes = require('./routes/iitRoutes');
 const nitRoutes = require('./routes/nitRoutes');
+const path = require('path');
 
 const app = express();
 app.use(cors());
@@ -13,6 +14,15 @@ app.use('/api/colleges', collegeRoutes);
 
 app.use('/iit', iitRoutes);
 app.use('/nit', nitRoutes);
+
+// Serve static files from the React app
+app.use(express.static(path.join(__dirname, 'public')));
+
+// Serve index.html for any non-API route
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
+
 const PORT = process.env.PORT ;
 const MONGO_URI = process.env.MONGO_URI;
 
