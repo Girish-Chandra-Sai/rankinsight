@@ -1,0 +1,5587 @@
+{
+  "OPEN": {
+    "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3710,
+          "closingRank": 8044
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10050,
+          "closingRank": 11529
+        }
+      },
+      "Electrical and Electronics Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 10447,
+          "closingRank": 17195
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 24344,
+          "closingRank": 25669
+        }
+      },
+      "Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 9708,
+          "closingRank": 13577
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 18625,
+          "closingRank": 22022
+        }
+      },
+      "Integrated B. Tech.(IT) and MBA (5 Years, Integrated B. Tech. and MBA)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 13833,
+          "closingRank": 16856
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 22303,
+          "closingRank": 24511
+        }
+      },
+      "Mathematics and Scientific Computing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8643,
+          "closingRank": 11180
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 16057,
+          "closingRank": 18094
+        }
+      }
+    },
+    "Indian Institute of Information Technology (IIIT)Kota, Rajasthan": {
+      "Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 14413,
+          "closingRank": 27124
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 29212,
+          "closingRank": 34478
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 14863,
+          "closingRank": 24416
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 25882,
+          "closingRank": 34423
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 25813,
+          "closingRank": 34167
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 34794,
+          "closingRank": 36589
+        }
+      }
+    },
+    "Indian Institute of Information Technology Guwahati": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8898,
+          "closingRank": 20821
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 26461,
+          "closingRank": 30584
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 17226,
+          "closingRank": 30437
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 33374,
+          "closingRank": 38176
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kalyani, West Bengal": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 28211,
+          "closingRank": 39991
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 35632,
+          "closingRank": 38130
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 40334,
+          "closingRank": 43031
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 40847,
+          "closingRank": 42026
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 18772,
+          "closingRank": 28994
+        },
+        "FEMALE_ONLY": null
+      },
+      "CSE ( Data Science & Analytics) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 25414,
+          "closingRank": 31601
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 26120,
+          "closingRank": 32173
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 17649,
+          "closingRank": 28335
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 28756,
+          "closingRank": 28910
+        }
+      },
+      "Computer Science and Engineering (Cyber Security) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 24797,
+          "closingRank": 31872
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Data Science) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 27980,
+          "closingRank": 30485
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 28230,
+          "closingRank": 37935
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 37389,
+          "closingRank": 37389
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 29569,
+          "closingRank": 33023
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 30920,
+          "closingRank": 30920
+        }
+      }
+    },
+    "Indian Institute of Information Technology (IIIT), Sri City, Chittoor": {
+      "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 12583,
+          "closingRank": 28509
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 25567,
+          "closingRank": 32036
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 15850,
+          "closingRank": 26444
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 11742,
+          "closingRank": 30676
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 27898,
+          "closingRank": 36490
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 31852,
+          "closingRank": 38333
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT), Vadodara, Gujrat": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 10274,
+          "closingRank": 21838
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 23161,
+          "closingRank": 30490
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 21896,
+          "closingRank": 23624
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 31434,
+          "closingRank": 33467
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Allahabad": {
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5569,
+          "closingRank": 7758
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10761,
+          "closingRank": 14319
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1581,
+          "closingRank": 5202
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4142,
+          "closingRank": 9457
+        }
+      },
+      "Information Technology-Business Informatics (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4252,
+          "closingRank": 5392
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 9159,
+          "closingRank": 9754
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram": {
+      "B.Tech in Mechanical Engineering and M.Tech in AI and Robotics (5 Years, B.Tech. + M.Tech./MS (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 24530,
+          "closingRank": 39290
+        },
+        "FEMALE_ONLY": null
+      },
+      "B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 25389,
+          "closingRank": 32117
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 33257,
+          "closingRank": 40124
+        }
+      },
+      "B.Tech. in Electronics and Communication Engineering and M.Tech. in VLSI Design (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 20405,
+          "closingRank": 27848
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 27612,
+          "closingRank": 33349
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7422,
+          "closingRank": 18654
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 11864,
+          "closingRank": 19604
+        }
+      },
+      "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 19308,
+          "closingRank": 22849
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 21711,
+          "closingRank": 26500
+        }
+      },
+      "Computer Science and Engineering with Major in Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 11923,
+          "closingRank": 18702
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 16255,
+          "closingRank": 22163
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 19426,
+          "closingRank": 27634
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 23341,
+          "closingRank": 27644
+        }
+      },
+      "Mechanical Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 19452,
+          "closingRank": 43513
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 45347,
+          "closingRank": 47534
+        }
+      },
+      "Smart Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 31783,
+          "closingRank": 48128
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 44987,
+          "closingRank": 56354
+        }
+      }
+    },
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8150,
+          "closingRank": 14757
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 16151,
+          "closingRank": 23022
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 12242,
+          "closingRank": 19106
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 18506,
+          "closingRank": 27458
+        }
+      },
+      "Mechanical Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 28690,
+          "closingRank": 41353
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 43819,
+          "closingRank": 50222
+        }
+      },
+      "Smart Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 41026,
+          "closingRank": 49439
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 43821,
+          "closingRank": 55789
+        }
+      }
+    },
+    "Indian Institute of Information Technology Tiruchirappalli": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 10666,
+          "closingRank": 29303
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 15479,
+          "closingRank": 32237
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 11247,
+          "closingRank": 36702
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 38757,
+          "closingRank": 41732
+        }
+      }
+    },
+    "Indian Institute of Information Technology Lucknow": {
+      "Computer Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7341,
+          "closingRank": 9824
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10857,
+          "closingRank": 13117
+        }
+      },
+      "Computer Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6127,
+          "closingRank": 9384
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 9235,
+          "closingRank": 14286
+        }
+      },
+      "Computer Science and Business (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 9303,
+          "closingRank": 11380
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 17888,
+          "closingRank": 18827
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5814,
+          "closingRank": 11494
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 16257,
+          "closingRank": 18522
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Dharwad": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 24106,
+          "closingRank": 37419
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 20028,
+          "closingRank": 39855
+        }
+      },
+      "Data Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 28213,
+          "closingRank": 39077
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 37154,
+          "closingRank": 41400
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 11215,
+          "closingRank": 41143
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 41496,
+          "closingRank": 43215
+        }
+      }
+    },
+    "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh": {
+      "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 20771,
+          "closingRank": 36999
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 35334,
+          "closingRank": 38027
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 21428,
+          "closingRank": 32761
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 24883,
+          "closingRank": 33001
+        }
+      },
+      "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 31320,
+          "closingRank": 37958
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 40614,
+          "closingRank": 42606
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 33048,
+          "closingRank": 41985
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 35056,
+          "closingRank": 37555
+        }
+      },
+      "Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 39952,
+          "closingRank": 50444
+        },
+        "FEMALE_ONLY": null
+      },
+      "Mechanical Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 42489,
+          "closingRank": 49886
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 50261,
+          "closingRank": 52652
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kottayam": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 19546,
+          "closingRank": 35996
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 19945,
+          "closingRank": 40151
+        }
+      },
+      "Computer Science and Engineering with specialization in Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 12989,
+          "closingRank": 32727
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 18954,
+          "closingRank": 33437
+        }
+      },
+      "Computer Science and Engineering with specialization in Cyber Security (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 25771,
+          "closingRank": 36976
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 38818,
+          "closingRank": 41306
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 19045,
+          "closingRank": 39875
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 34914,
+          "closingRank": 40028
+        }
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Ranchi": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 20517,
+          "closingRank": 32429
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (with Specialization of Data Science and Artificial Intelligence) (4 Years, B. Tech / B. Tech (Hons.))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 25552,
+          "closingRank": 31336
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 30138,
+          "closingRank": 40194
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (with Specialization of Embedded Systems and Internet of Things) (4 Years, B. Tech / B. Tech (Hons.))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 35309,
+          "closingRank": 39295
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Nagpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 17234,
+          "closingRank": 27356
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Artificial lntelligence and Machine Learning) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 18517,
+          "closingRank": 27105
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Data Science and Analytics) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 20112,
+          "closingRank": 28763
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Human Computer lnteraction and Gaming Technology) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 23181,
+          "closingRank": 30403
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 27541,
+          "closingRank": 37530
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (Internet of Things) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 22824,
+          "closingRank": 35608
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Pune": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 9557,
+          "closingRank": 18252
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 18487,
+          "closingRank": 26196
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 17293,
+          "closingRank": 23592
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 26570,
+          "closingRank": 30741
+        }
+      }
+    },
+    "Indian Institute of Information Technology Bhagalpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 24375,
+          "closingRank": 39481
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 32777,
+          "closingRank": 41440
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 37978,
+          "closingRank": 42488
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 42934,
+          "closingRank": 43392
+        }
+      },
+      "Mathematics and Computing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 22083,
+          "closingRank": 39975
+        },
+        "FEMALE_ONLY": null
+      },
+      "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 42025,
+          "closingRank": 47663
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 45233,
+          "closingRank": 48683
+        }
+      }
+    },
+    "Indian Institute of Information Technology Bhopal": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 15159,
+          "closingRank": 23999
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Artificial Intelligence) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 11406,
+          "closingRank": 23637
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Cyber Physical System) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 24564,
+          "closingRank": 30659
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Cyber Security) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 16823,
+          "closingRank": 27858
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Data Science) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 12196,
+          "closingRank": 24335
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 20535,
+          "closingRank": 35355
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 15057,
+          "closingRank": 30065
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Surat": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 12117,
+          "closingRank": 25108
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 31653,
+          "closingRank": 33933
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 22702,
+          "closingRank": 34263
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 32016,
+          "closingRank": 35609
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Agartala": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 23898,
+          "closingRank": 39356
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 30606,
+          "closingRank": 44100
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 17310,
+          "closingRank": 32396
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 34583,
+          "closingRank": 38839
+        }
+      }
+    }
+  },
+  "OPEN (PwD)": {
+    "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 212,
+          "closingRank": 212
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electrical and Electronics Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1334,
+          "closingRank": 1334
+        },
+        "FEMALE_ONLY": null
+      },
+      "Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 776,
+          "closingRank": 776
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 555,
+          "closingRank": 555
+        }
+      },
+      "Integrated B. Tech.(IT) and MBA (5 Years, Integrated B. Tech. and MBA)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1098,
+          "closingRank": 1098
+        },
+        "FEMALE_ONLY": null
+      },
+      "Mathematics and Scientific Computing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 719,
+          "closingRank": 719
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT)Kota, Rajasthan": {
+      "Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1997,
+          "closingRank": 2185
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1261,
+          "closingRank": 1619
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2035,
+          "closingRank": 2035
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 295,
+          "closingRank": 295
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Guwahati": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 915,
+          "closingRank": 1082
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2453,
+          "closingRank": 2453
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1332,
+          "closingRank": 2723
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kalyani, West Bengal": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 293,
+          "closingRank": 1271
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3291,
+          "closingRank": 3291
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 629,
+          "closingRank": 1922
+        },
+        "FEMALE_ONLY": null
+      },
+      "CSE ( Data Science & Analytics) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2644,
+          "closingRank": 2644
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1547,
+          "closingRank": 1547
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 709,
+          "closingRank": 1505
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Cyber Security) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 484,
+          "closingRank": 484
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3688,
+          "closingRank": 3688
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1717,
+          "closingRank": 1717
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT), Sri City, Chittoor": {
+      "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 710,
+          "closingRank": 710
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1162,
+          "closingRank": 1335
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1774,
+          "closingRank": 1774
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT), Vadodara, Gujrat": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1383,
+          "closingRank": 1946
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 681,
+          "closingRank": 681
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2100,
+          "closingRank": 2100
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology, Allahabad": {
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 337,
+          "closingRank": 344
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 487,
+          "closingRank": 487
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 229,
+          "closingRank": 284
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1011,
+          "closingRank": 1011
+        }
+      },
+      "Information Technology-Business Informatics (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 280,
+          "closingRank": 280
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram": {
+      "B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2109,
+          "closingRank": 2109
+        },
+        "FEMALE_ONLY": null
+      },
+      "B.Tech. in Electronics and Communication Engineering and M.Tech. in VLSI Design (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2146,
+          "closingRank": 2146
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 655,
+          "closingRank": 655
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 571,
+          "closingRank": 571
+        }
+      },
+      "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 866,
+          "closingRank": 866
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering with Major in Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 436,
+          "closingRank": 436
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 859,
+          "closingRank": 1007
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 654,
+          "closingRank": 654
+        }
+      },
+      "Mechanical Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2030,
+          "closingRank": 2030
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2249,
+          "closingRank": 2249
+        }
+      },
+      "Smart Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1828,
+          "closingRank": 1828
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 425,
+          "closingRank": 974
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1402,
+          "closingRank": 1402
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1190,
+          "closingRank": 1279
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1925,
+          "closingRank": 1925
+        }
+      },
+      "Mechanical Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2412,
+          "closingRank": 2412
+        },
+        "FEMALE_ONLY": null
+      },
+      "Smart Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3322,
+          "closingRank": 3322
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Tiruchirappalli": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 827,
+          "closingRank": 827
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1710,
+          "closingRank": 1710
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1699,
+          "closingRank": 1699
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Lucknow": {
+      "Computer Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 482,
+          "closingRank": 482
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 230,
+          "closingRank": 230
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Business (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 528,
+          "closingRank": 528
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 648,
+          "closingRank": 648
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1927,
+          "closingRank": 1927
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Dharwad": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 601,
+          "closingRank": 1246
+        },
+        "FEMALE_ONLY": null
+      },
+      "Data Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 448,
+          "closingRank": 990
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1253,
+          "closingRank": 1378
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh": {
+      "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 578,
+          "closingRank": 578
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 491,
+          "closingRank": 491
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2076,
+          "closingRank": 2076
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 926,
+          "closingRank": 926
+        },
+        "FEMALE_ONLY": null
+      },
+      "Mechanical Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2884,
+          "closingRank": 2884
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kottayam": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1349,
+          "closingRank": 2524
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1475,
+          "closingRank": 1475
+        }
+      },
+      "Computer Science and Engineering with specialization in Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 961,
+          "closingRank": 961
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering with specialization in Cyber Security (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1597,
+          "closingRank": 1597
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2395,
+          "closingRank": 2395
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Ranchi": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1044,
+          "closingRank": 1538
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (with Specialization of Data Science and Artificial Intelligence) (4 Years, B. Tech / B. Tech (Hons.))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1514,
+          "closingRank": 1514
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2141,
+          "closingRank": 2651
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (with Specialization of Embedded Systems and Internet of Things) (4 Years, B. Tech / B. Tech (Hons.))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3250,
+          "closingRank": 3250
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Nagpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 830,
+          "closingRank": 914
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Artificial lntelligence and Machine Learning) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 986,
+          "closingRank": 986
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Data Science and Analytics) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1008,
+          "closingRank": 1008
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Human Computer lnteraction and Gaming Technology) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1022,
+          "closingRank": 1070
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 559,
+          "closingRank": 2341
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (Internet of Things) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1558,
+          "closingRank": 1558
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Pune": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 460,
+          "closingRank": 856
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 396,
+          "closingRank": 396
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 973,
+          "closingRank": 1068
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Bhopal": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1111,
+          "closingRank": 1581
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Artificial Intelligence) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1920,
+          "closingRank": 1920
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Data Science) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 903,
+          "closingRank": 903
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2648,
+          "closingRank": 2844
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1531,
+          "closingRank": 1726
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Surat": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 971,
+          "closingRank": 1644
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2722,
+          "closingRank": 2811
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1924,
+          "closingRank": 2211
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2221,
+          "closingRank": 2221
+        }
+      }
+    }
+  },
+  "EWS": {
+    "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1127,
+          "closingRank": 1365
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2013,
+          "closingRank": 2013
+        }
+      },
+      "Electrical and Electronics Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2740,
+          "closingRank": 2803
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4312,
+          "closingRank": 4312
+        }
+      },
+      "Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2069,
+          "closingRank": 2370
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3731,
+          "closingRank": 3809
+        }
+      },
+      "Integrated B. Tech.(IT) and MBA (5 Years, Integrated B. Tech. and MBA)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2615,
+          "closingRank": 2790
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4010,
+          "closingRank": 4010
+        }
+      },
+      "Mathematics and Scientific Computing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1724,
+          "closingRank": 1908
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3232,
+          "closingRank": 3232
+        }
+      }
+    },
+    "Indian Institute of Information Technology (IIIT)Kota, Rajasthan": {
+      "Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4354,
+          "closingRank": 4855
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6523,
+          "closingRank": 6523
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3896,
+          "closingRank": 4630
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5759,
+          "closingRank": 6604
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5548,
+          "closingRank": 6098
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6775,
+          "closingRank": 6833
+        }
+      }
+    },
+    "Indian Institute of Information Technology Guwahati": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3243,
+          "closingRank": 3551
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5082,
+          "closingRank": 5385
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4982,
+          "closingRank": 5528
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6177,
+          "closingRank": 6177
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kalyani, West Bengal": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6424,
+          "closingRank": 6978
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7343,
+          "closingRank": 7343
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7084,
+          "closingRank": 7241
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7628,
+          "closingRank": 7628
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4618,
+          "closingRank": 5038
+        },
+        "FEMALE_ONLY": null
+      },
+      "CSE ( Data Science & Analytics) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5041,
+          "closingRank": 5264
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5249,
+          "closingRank": 5444
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4629,
+          "closingRank": 5056
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5436,
+          "closingRank": 5436
+        }
+      },
+      "Computer Science and Engineering (Cyber Security) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5543,
+          "closingRank": 5586
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Data Science) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5311,
+          "closingRank": 5484
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6161,
+          "closingRank": 6728
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5420,
+          "closingRank": 6044
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT), Sri City, Chittoor": {
+      "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4532,
+          "closingRank": 4983
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4199,
+          "closingRank": 4857
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5250,
+          "closingRank": 5599
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6078,
+          "closingRank": 6535
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT), Vadodara, Gujrat": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3655,
+          "closingRank": 4092
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5021,
+          "closingRank": 6025
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4101,
+          "closingRank": 4255
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6420,
+          "closingRank": 6420
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Allahabad": {
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1063,
+          "closingRank": 1376
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2165,
+          "closingRank": 2348
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 724,
+          "closingRank": 986
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1389,
+          "closingRank": 1801
+        }
+      },
+      "Information Technology-Business Informatics (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 887,
+          "closingRank": 994
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2009,
+          "closingRank": 2009
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram": {
+      "B.Tech in Mechanical Engineering and M.Tech in AI and Robotics (5 Years, B.Tech. + M.Tech./MS (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6555,
+          "closingRank": 7490
+        },
+        "FEMALE_ONLY": null
+      },
+      "B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5569,
+          "closingRank": 5662
+        },
+        "FEMALE_ONLY": null
+      },
+      "B.Tech. in Electronics and Communication Engineering and M.Tech. in VLSI Design (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5284,
+          "closingRank": 6451
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6754,
+          "closingRank": 6754
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2862,
+          "closingRank": 3058
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3113,
+          "closingRank": 3215
+        }
+      },
+      "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3639,
+          "closingRank": 4185
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5384,
+          "closingRank": 5384
+        }
+      },
+      "Computer Science and Engineering with Major in Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3090,
+          "closingRank": 3188
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3765,
+          "closingRank": 3765
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4433,
+          "closingRank": 5126
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4954,
+          "closingRank": 5652
+        }
+      },
+      "Mechanical Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7361,
+          "closingRank": 7902
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 9275,
+          "closingRank": 9672
+        }
+      },
+      "Smart Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8145,
+          "closingRank": 8656
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10224,
+          "closingRank": 10224
+        }
+      }
+    },
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2212,
+          "closingRank": 2443
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3726,
+          "closingRank": 4150
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2975,
+          "closingRank": 3231
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4403,
+          "closingRank": 4699
+        }
+      },
+      "Mechanical Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6646,
+          "closingRank": 7237
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 8257,
+          "closingRank": 8257
+        }
+      },
+      "Smart Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8065,
+          "closingRank": 8414
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10027,
+          "closingRank": 10027
+        }
+      }
+    },
+    "Indian Institute of Information Technology Tiruchirappalli": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4678,
+          "closingRank": 5173
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6191,
+          "closingRank": 6443
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6227,
+          "closingRank": 6710
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7134,
+          "closingRank": 7703
+        }
+      }
+    },
+    "Indian Institute of Information Technology Lucknow": {
+      "Computer Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1459,
+          "closingRank": 1639
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1422,
+          "closingRank": 1575
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2265,
+          "closingRank": 2265
+        }
+      },
+      "Computer Science and Business (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1666,
+          "closingRank": 1857
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2928,
+          "closingRank": 2928
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1786,
+          "closingRank": 2055
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3019,
+          "closingRank": 3019
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Dharwad": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6032,
+          "closingRank": 6763
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6713,
+          "closingRank": 7570
+        }
+      },
+      "Data Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6641,
+          "closingRank": 6996
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6913,
+          "closingRank": 7668
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7001,
+          "closingRank": 7224
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6983,
+          "closingRank": 7285
+        }
+      }
+    },
+    "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh": {
+      "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5965,
+          "closingRank": 6561
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6571,
+          "closingRank": 6571
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5379,
+          "closingRank": 5862
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5702,
+          "closingRank": 5702
+        }
+      },
+      "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6205,
+          "closingRank": 6378
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6896,
+          "closingRank": 7207
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6814,
+          "closingRank": 7053
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7043,
+          "closingRank": 7043
+        }
+      },
+      "Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8584,
+          "closingRank": 8770
+        },
+        "FEMALE_ONLY": null
+      },
+      "Mechanical Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8147,
+          "closingRank": 8530
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kottayam": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5795,
+          "closingRank": 6586
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6528,
+          "closingRank": 7599
+        }
+      },
+      "Computer Science and Engineering with specialization in Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5287,
+          "closingRank": 5717
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6782,
+          "closingRank": 6782
+        }
+      },
+      "Computer Science and Engineering with specialization in Cyber Security (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6057,
+          "closingRank": 6670
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7650,
+          "closingRank": 7650
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6530,
+          "closingRank": 6912
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7621,
+          "closingRank": 7621
+        }
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Ranchi": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5259,
+          "closingRank": 5894
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (with Specialization of Data Science and Artificial Intelligence) (4 Years, B. Tech / B. Tech (Hons.))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5092,
+          "closingRank": 5465
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6770,
+          "closingRank": 7045
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (with Specialization of Embedded Systems and Internet of Things) (4 Years, B. Tech / B. Tech (Hons.))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6893,
+          "closingRank": 7047
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Nagpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4340,
+          "closingRank": 5189
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Artificial lntelligence and Machine Learning) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4412,
+          "closingRank": 4984
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Data Science and Analytics) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5271,
+          "closingRank": 5560
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Human Computer lnteraction and Gaming Technology) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5014,
+          "closingRank": 5672
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6084,
+          "closingRank": 6658
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (Internet of Things) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6196,
+          "closingRank": 6585
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Pune": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2859,
+          "closingRank": 3401
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4219,
+          "closingRank": 4864
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3844,
+          "closingRank": 4365
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5155,
+          "closingRank": 5572
+        }
+      }
+    },
+    "Indian Institute of Information Technology Bhagalpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6352,
+          "closingRank": 6738
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7432,
+          "closingRank": 7698
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7080,
+          "closingRank": 7193
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 8638,
+          "closingRank": 8638
+        }
+      },
+      "Mathematics and Computing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6423,
+          "closingRank": 6423
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7770,
+          "closingRank": 7770
+        }
+      },
+      "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7780,
+          "closingRank": 7926
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 8329,
+          "closingRank": 8329
+        }
+      }
+    },
+    "Indian Institute of Information Technology Bhopal": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3789,
+          "closingRank": 4572
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Artificial Intelligence) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3704,
+          "closingRank": 3784
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Cyber Physical System) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4947,
+          "closingRank": 5121
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Cyber Security) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4527,
+          "closingRank": 4877
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Data Science) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3876,
+          "closingRank": 4749
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5721,
+          "closingRank": 6367
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4800,
+          "closingRank": 5347
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Surat": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4192,
+          "closingRank": 4627
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5445,
+          "closingRank": 5947
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5827,
+          "closingRank": 6391
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7177,
+          "closingRank": 7363
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Agartala": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6602,
+          "closingRank": 6856
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7848,
+          "closingRank": 7848
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5191,
+          "closingRank": 5983
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6850,
+          "closingRank": 7291
+        }
+      }
+    }
+  },
+  "OBC-NCL": {
+    "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2658,
+          "closingRank": 3625
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5669,
+          "closingRank": 6214
+        }
+      },
+      "Electrical and Electronics Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5855,
+          "closingRank": 6543
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10596,
+          "closingRank": 13502
+        }
+      },
+      "Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4349,
+          "closingRank": 6241
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7705,
+          "closingRank": 10475
+        }
+      },
+      "Integrated B. Tech.(IT) and MBA (5 Years, Integrated B. Tech. and MBA)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5953,
+          "closingRank": 7482
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10304,
+          "closingRank": 10838
+        }
+      },
+      "Mathematics and Scientific Computing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4634,
+          "closingRank": 4863
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7390,
+          "closingRank": 9429
+        }
+      }
+    },
+    "Indian Institute of Information Technology (IIIT)Kota, Rajasthan": {
+      "Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8497,
+          "closingRank": 11440
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 14792,
+          "closingRank": 15390
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7053,
+          "closingRank": 10658
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 13265,
+          "closingRank": 14625
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 12480,
+          "closingRank": 14779
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 17748,
+          "closingRank": 18565
+        }
+      }
+    },
+    "Indian Institute of Information Technology Guwahati": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5512,
+          "closingRank": 8445
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10414,
+          "closingRank": 13481
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8786,
+          "closingRank": 13518
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 16034,
+          "closingRank": 17942
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kalyani, West Bengal": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 13588,
+          "closingRank": 16367
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 16308,
+          "closingRank": 18234
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 16578,
+          "closingRank": 17077
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 15369,
+          "closingRank": 15369
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8650,
+          "closingRank": 12954
+        },
+        "FEMALE_ONLY": null
+      },
+      "CSE ( Data Science & Analytics) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 12987,
+          "closingRank": 14380
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 13134,
+          "closingRank": 14394
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8416,
+          "closingRank": 12090
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Cyber Security) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 10451,
+          "closingRank": 13111
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Data Science) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 11265,
+          "closingRank": 13073
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 12339,
+          "closingRank": 16185
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 17889,
+          "closingRank": 17889
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 12245,
+          "closingRank": 14170
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 17018,
+          "closingRank": 17018
+        }
+      }
+    },
+    "Indian Institute of Information Technology (IIIT), Sri City, Chittoor": {
+      "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8346,
+          "closingRank": 11996
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 12461,
+          "closingRank": 12461
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7089,
+          "closingRank": 11112
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10622,
+          "closingRank": 12540
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 11733,
+          "closingRank": 14065
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 12833,
+          "closingRank": 13601
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT), Vadodara, Gujrat": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6971,
+          "closingRank": 9909
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 8473,
+          "closingRank": 15791
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8800,
+          "closingRank": 11316
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 15814,
+          "closingRank": 16080
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Allahabad": {
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2428,
+          "closingRank": 3558
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6185,
+          "closingRank": 7281
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1119,
+          "closingRank": 2509
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2473,
+          "closingRank": 5104
+        }
+      },
+      "Information Technology-Business Informatics (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1950,
+          "closingRank": 2639
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5184,
+          "closingRank": 5423
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram": {
+      "B.Tech in Mechanical Engineering and M.Tech in AI and Robotics (5 Years, B.Tech. + M.Tech./MS (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 11596,
+          "closingRank": 15798
+        },
+        "FEMALE_ONLY": null
+      },
+      "B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 10937,
+          "closingRank": 11387
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 14391,
+          "closingRank": 14391
+        }
+      },
+      "B.Tech. in Electronics and Communication Engineering and M.Tech. in VLSI Design (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 9175,
+          "closingRank": 11284
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10683,
+          "closingRank": 10683
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5428,
+          "closingRank": 7575
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5188,
+          "closingRank": 9420
+        }
+      },
+      "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6828,
+          "closingRank": 8562
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 12015,
+          "closingRank": 13194
+        }
+      },
+      "Computer Science and Engineering with Major in Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6221,
+          "closingRank": 7850
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10721,
+          "closingRank": 11166
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7612,
+          "closingRank": 10157
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10230,
+          "closingRank": 13591
+        }
+      },
+      "Mechanical Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 12644,
+          "closingRank": 16443
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 15779,
+          "closingRank": 19279
+        }
+      },
+      "Smart Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 14059,
+          "closingRank": 17165
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 18808,
+          "closingRank": 19374
+        }
+      }
+    },
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3671,
+          "closingRank": 5785
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7265,
+          "closingRank": 9914
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5831,
+          "closingRank": 7514
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10550,
+          "closingRank": 12756
+        }
+      },
+      "Mechanical Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 11867,
+          "closingRank": 16157
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 20153,
+          "closingRank": 20662
+        }
+      },
+      "Smart Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 16022,
+          "closingRank": 18176
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 21409,
+          "closingRank": 22444
+        }
+      }
+    },
+    "Indian Institute of Information Technology Tiruchirappalli": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7941,
+          "closingRank": 11994
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 13035,
+          "closingRank": 15906
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 10675,
+          "closingRank": 15120
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 16099,
+          "closingRank": 17553
+        }
+      }
+    },
+    "Indian Institute of Information Technology Lucknow": {
+      "Computer Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2778,
+          "closingRank": 4262
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6458,
+          "closingRank": 7118
+        }
+      },
+      "Computer Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2935,
+          "closingRank": 4064
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7134,
+          "closingRank": 8046
+        }
+      },
+      "Computer Science and Business (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3472,
+          "closingRank": 4884
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 8180,
+          "closingRank": 8268
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4116,
+          "closingRank": 4959
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 8960,
+          "closingRank": 9152
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Dharwad": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 11172,
+          "closingRank": 15972
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 14252,
+          "closingRank": 17907
+        }
+      },
+      "Data Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 12624,
+          "closingRank": 16643
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 17328,
+          "closingRank": 18574
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 14136,
+          "closingRank": 16841
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 18551,
+          "closingRank": 18957
+        }
+      }
+    },
+    "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh": {
+      "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 12134,
+          "closingRank": 14516
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 13672,
+          "closingRank": 13940
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 9114,
+          "closingRank": 13128
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 11429,
+          "closingRank": 12828
+        }
+      },
+      "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 13283,
+          "closingRank": 15367
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 14604,
+          "closingRank": 16891
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 13258,
+          "closingRank": 16831
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 13679,
+          "closingRank": 13679
+        }
+      },
+      "Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 14877,
+          "closingRank": 18228
+        },
+        "FEMALE_ONLY": null
+      },
+      "Mechanical Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 17006,
+          "closingRank": 18149
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 19787,
+          "closingRank": 19787
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kottayam": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 10312,
+          "closingRank": 14629
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 12122,
+          "closingRank": 15875
+        }
+      },
+      "Computer Science and Engineering with specialization in Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 9265,
+          "closingRank": 12084
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 11290,
+          "closingRank": 12777
+        }
+      },
+      "Computer Science and Engineering with specialization in Cyber Security (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 12242,
+          "closingRank": 14983
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 15371,
+          "closingRank": 15932
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 11792,
+          "closingRank": 15467
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 15340,
+          "closingRank": 16560
+        }
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Ranchi": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 9170,
+          "closingRank": 13690
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (with Specialization of Data Science and Artificial Intelligence) (4 Years, B. Tech / B. Tech (Hons.))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8903,
+          "closingRank": 13354
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 11678,
+          "closingRank": 16809
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (with Specialization of Embedded Systems and Internet of Things) (4 Years, B. Tech / B. Tech (Hons.))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 15263,
+          "closingRank": 16460
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Nagpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7541,
+          "closingRank": 11755
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Artificial lntelligence and Machine Learning) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7990,
+          "closingRank": 11474
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Data Science and Analytics) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8121,
+          "closingRank": 12500
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Human Computer lnteraction and Gaming Technology) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 10565,
+          "closingRank": 13132
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 10606,
+          "closingRank": 15792
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (Internet of Things) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 12080,
+          "closingRank": 15472
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Pune": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4909,
+          "closingRank": 8377
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 8888,
+          "closingRank": 12521
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8044,
+          "closingRank": 11092
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 13133,
+          "closingRank": 14755
+        }
+      }
+    },
+    "Indian Institute of Information Technology Bhagalpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 11807,
+          "closingRank": 15743
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 13124,
+          "closingRank": 17805
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 16016,
+          "closingRank": 17203
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 16492,
+          "closingRank": 16492
+        }
+      },
+      "Mathematics and Computing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 15752,
+          "closingRank": 16801
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 18225,
+          "closingRank": 18225
+        }
+      },
+      "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 17081,
+          "closingRank": 18110
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 20225,
+          "closingRank": 21609
+        }
+      }
+    },
+    "Indian Institute of Information Technology Bhopal": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7232,
+          "closingRank": 10997
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Artificial Intelligence) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7573,
+          "closingRank": 10710
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Cyber Physical System) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 11484,
+          "closingRank": 12626
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Cyber Security) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8315,
+          "closingRank": 11432
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Data Science) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7241,
+          "closingRank": 10496
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 10489,
+          "closingRank": 14641
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 9161,
+          "closingRank": 12751
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Surat": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8876,
+          "closingRank": 11302
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 13447,
+          "closingRank": 15434
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 13335,
+          "closingRank": 15703
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 15751,
+          "closingRank": 16798
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Agartala": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 12044,
+          "closingRank": 16297
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 18037,
+          "closingRank": 19570
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 11851,
+          "closingRank": 15207
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 16116,
+          "closingRank": 18963
+        }
+      }
+    }
+  },
+  "OBC-NCL (PwD)": {
+    "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 195,
+          "closingRank": 195
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electrical and Electronics Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 973,
+          "closingRank": 973
+        },
+        "FEMALE_ONLY": null
+      },
+      "Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 557,
+          "closingRank": 557
+        },
+        "FEMALE_ONLY": null
+      },
+      "Integrated B. Tech.(IT) and MBA (5 Years, Integrated B. Tech. and MBA)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 746,
+          "closingRank": 746
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT)Kota, Rajasthan": {
+      "Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1715,
+          "closingRank": 1715
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 671,
+          "closingRank": 1525
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1891,
+          "closingRank": 1891
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Guwahati": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1398,
+          "closingRank": 1399
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kalyani, West Bengal": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 736,
+          "closingRank": 1432
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1074,
+          "closingRank": 1382
+        },
+        "FEMALE_ONLY": null
+      },
+      "CSE ( Data Science & Analytics) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1279,
+          "closingRank": 1279
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 966,
+          "closingRank": 966
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT), Sri City, Chittoor": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 555,
+          "closingRank": 882
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1333,
+          "closingRank": 1333
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT), Vadodara, Gujrat": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1113,
+          "closingRank": 1205
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology, Allahabad": {
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 193,
+          "closingRank": 193
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 174,
+          "closingRank": 261
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 502,
+          "closingRank": 502
+        }
+      },
+      "Information Technology-Business Informatics (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 278,
+          "closingRank": 278
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram": {
+      "B.Tech in Mechanical Engineering and M.Tech in AI and Robotics (5 Years, B.Tech. + M.Tech./MS (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1244,
+          "closingRank": 1244
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 265,
+          "closingRank": 265
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 594,
+          "closingRank": 594
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering with Major in Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 385,
+          "closingRank": 385
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 615,
+          "closingRank": 615
+        },
+        "FEMALE_ONLY": null
+      },
+      "Mechanical Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1186,
+          "closingRank": 1186
+        },
+        "FEMALE_ONLY": null
+      },
+      "Smart Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1173,
+          "closingRank": 1173
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 380,
+          "closingRank": 497
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 728,
+          "closingRank": 728
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 768,
+          "closingRank": 768
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Tiruchirappalli": {
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1104,
+          "closingRank": 1104
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1178,
+          "closingRank": 1178
+        }
+      }
+    },
+    "Indian Institute of Information Technology Lucknow": {
+      "Computer Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 403,
+          "closingRank": 403
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 264,
+          "closingRank": 264
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Business (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 437,
+          "closingRank": 437
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1035,
+          "closingRank": 1035
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 630,
+          "closingRank": 630
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Dharwad": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 519,
+          "closingRank": 785
+        },
+        "FEMALE_ONLY": null
+      },
+      "Data Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1135,
+          "closingRank": 1135
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 635,
+          "closingRank": 635
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh": {
+      "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 412,
+          "closingRank": 412
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 317,
+          "closingRank": 317
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 546,
+          "closingRank": 546
+        },
+        "FEMALE_ONLY": null
+      },
+      "Mechanical Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1477,
+          "closingRank": 1477
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kottayam": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1207,
+          "closingRank": 1509
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1136,
+          "closingRank": 1136
+        }
+      },
+      "Computer Science and Engineering with specialization in Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 488,
+          "closingRank": 488
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering with specialization in Cyber Security (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 931,
+          "closingRank": 931
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1696,
+          "closingRank": 1696
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Ranchi": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1377,
+          "closingRank": 1588
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1355,
+          "closingRank": 1355
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (with Specialization of Embedded Systems and Internet of Things) (4 Years, B. Tech / B. Tech (Hons.))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1662,
+          "closingRank": 1662
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Nagpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 469,
+          "closingRank": 620
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Artificial lntelligence and Machine Learning) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 510,
+          "closingRank": 510
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Data Science and Analytics) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 741,
+          "closingRank": 741
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Human Computer lnteraction and Gaming Technology) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 987,
+          "closingRank": 987
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1694,
+          "closingRank": 1808
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (Internet of Things) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1123,
+          "closingRank": 1607
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Pune": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 665,
+          "closingRank": 775
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 454,
+          "closingRank": 454
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 925,
+          "closingRank": 925
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Bhopal": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 725,
+          "closingRank": 755
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Cyber Security) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 983,
+          "closingRank": 983
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 999,
+          "closingRank": 1648
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Surat": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 846,
+          "closingRank": 846
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1608,
+          "closingRank": 1608
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1077,
+          "closingRank": 1077
+        },
+        "FEMALE_ONLY": null
+      }
+    }
+  },
+  "SC": {
+    "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1737,
+          "closingRank": 2195
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3246,
+          "closingRank": 3313
+        }
+      },
+      "Electrical and Electronics Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3776,
+          "closingRank": 5088
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4852,
+          "closingRank": 4852
+        }
+      },
+      "Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2426,
+          "closingRank": 4293
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4280,
+          "closingRank": 5371
+        }
+      },
+      "Integrated B. Tech.(IT) and MBA (5 Years, Integrated B. Tech. and MBA)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3595,
+          "closingRank": 4746
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5701,
+          "closingRank": 5701
+        }
+      },
+      "Mathematics and Scientific Computing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2706,
+          "closingRank": 3476
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT)Kota, Rajasthan": {
+      "Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5471,
+          "closingRank": 7643
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10037,
+          "closingRank": 10142
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3959,
+          "closingRank": 7363
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6501,
+          "closingRank": 8483
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6950,
+          "closingRank": 8653
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 9767,
+          "closingRank": 10738
+        }
+      }
+    },
+    "Indian Institute of Information Technology Guwahati": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3874,
+          "closingRank": 5209
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4417,
+          "closingRank": 6963
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2945,
+          "closingRank": 7079
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5484,
+          "closingRank": 8445
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kalyani, West Bengal": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3847,
+          "closingRank": 9255
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6254,
+          "closingRank": 8992
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6259,
+          "closingRank": 9708
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10443,
+          "closingRank": 10443
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4009,
+          "closingRank": 8043
+        },
+        "FEMALE_ONLY": null
+      },
+      "CSE ( Data Science & Analytics) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7401,
+          "closingRank": 9056
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7943,
+          "closingRank": 8919
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3954,
+          "closingRank": 6890
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Cyber Security) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6991,
+          "closingRank": 8712
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Data Science) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7494,
+          "closingRank": 7990
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7166,
+          "closingRank": 9737
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10873,
+          "closingRank": 10873
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5026,
+          "closingRank": 9195
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT), Sri City, Chittoor": {
+      "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5423,
+          "closingRank": 7771
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4696,
+          "closingRank": 8121
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7118,
+          "closingRank": 7928
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6520,
+          "closingRank": 9656
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10281,
+          "closingRank": 10281
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT), Vadodara, Gujrat": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3805,
+          "closingRank": 7532
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5936,
+          "closingRank": 7556
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7544,
+          "closingRank": 8179
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6596,
+          "closingRank": 6596
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Allahabad": {
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1144,
+          "closingRank": 2402
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2564,
+          "closingRank": 4416
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 609,
+          "closingRank": 1562
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1036,
+          "closingRank": 3003
+        }
+      },
+      "Information Technology-Business Informatics (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1023,
+          "closingRank": 1695
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 836,
+          "closingRank": 836
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram": {
+      "B.Tech in Mechanical Engineering and M.Tech in AI and Robotics (5 Years, B.Tech. + M.Tech./MS (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6697,
+          "closingRank": 8025
+        },
+        "FEMALE_ONLY": null
+      },
+      "B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5458,
+          "closingRank": 6619
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 8319,
+          "closingRank": 8319
+        }
+      },
+      "B.Tech. in Electronics and Communication Engineering and M.Tech. in VLSI Design (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5224,
+          "closingRank": 6008
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2162,
+          "closingRank": 4366
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3179,
+          "closingRank": 5547
+        }
+      },
+      "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3794,
+          "closingRank": 5281
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5681,
+          "closingRank": 6597
+        }
+      },
+      "Computer Science and Engineering with Major in Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4092,
+          "closingRank": 4700
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5862,
+          "closingRank": 5862
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4952,
+          "closingRank": 6140
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4928,
+          "closingRank": 6911
+        }
+      },
+      "Mechanical Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6455,
+          "closingRank": 8018
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 9024,
+          "closingRank": 10505
+        }
+      },
+      "Smart Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8144,
+          "closingRank": 9063
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 9853,
+          "closingRank": 9853
+        }
+      }
+    },
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 863,
+          "closingRank": 3905
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3656,
+          "closingRank": 5201
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3737,
+          "closingRank": 4945
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5425,
+          "closingRank": 7356
+        }
+      },
+      "Mechanical Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5818,
+          "closingRank": 7511
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5674,
+          "closingRank": 9237
+        }
+      },
+      "Smart Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7825,
+          "closingRank": 9556
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 11116,
+          "closingRank": 11422
+        }
+      }
+    },
+    "Indian Institute of Information Technology Tiruchirappalli": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1360,
+          "closingRank": 5985
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6241,
+          "closingRank": 8427
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5644,
+          "closingRank": 7890
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 8674,
+          "closingRank": 9822
+        }
+      }
+    },
+    "Indian Institute of Information Technology Lucknow": {
+      "Computer Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2211,
+          "closingRank": 3139
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4672,
+          "closingRank": 5463
+        }
+      },
+      "Computer Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1362,
+          "closingRank": 3240
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5200,
+          "closingRank": 5200
+        }
+      },
+      "Computer Science and Business (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2599,
+          "closingRank": 3888
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5190,
+          "closingRank": 6157
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3523,
+          "closingRank": 4019
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5519,
+          "closingRank": 6111
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Dharwad": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2716,
+          "closingRank": 9390
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6796,
+          "closingRank": 9769
+        }
+      },
+      "Data Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8720,
+          "closingRank": 9861
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 8124,
+          "closingRank": 10212
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6091,
+          "closingRank": 10252
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10261,
+          "closingRank": 10883
+        }
+      }
+    },
+    "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh": {
+      "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4717,
+          "closingRank": 6190
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6661,
+          "closingRank": 6661
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4291,
+          "closingRank": 5596
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5148,
+          "closingRank": 5148
+        }
+      },
+      "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6318,
+          "closingRank": 6939
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7122,
+          "closingRank": 7918
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7044,
+          "closingRank": 7695
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 7776,
+          "closingRank": 7776
+        }
+      },
+      "Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6428,
+          "closingRank": 9460
+        },
+        "FEMALE_ONLY": null
+      },
+      "Mechanical Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7583,
+          "closingRank": 8903
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10907,
+          "closingRank": 10907
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kottayam": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5635,
+          "closingRank": 9967
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 6953,
+          "closingRank": 10470
+        }
+      },
+      "Computer Science and Engineering with specialization in Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3545,
+          "closingRank": 8046
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 9185,
+          "closingRank": 9891
+        }
+      },
+      "Computer Science and Engineering with specialization in Cyber Security (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6998,
+          "closingRank": 9327
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 9433,
+          "closingRank": 10065
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 9377,
+          "closingRank": 10131
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 9468,
+          "closingRank": 10207
+        }
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Ranchi": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6142,
+          "closingRank": 8439
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (with Specialization of Data Science and Artificial Intelligence) (4 Years, B. Tech / B. Tech (Hons.))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7471,
+          "closingRank": 8131
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 9064,
+          "closingRank": 10111
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (with Specialization of Embedded Systems and Internet of Things) (4 Years, B. Tech / B. Tech (Hons.))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7220,
+          "closingRank": 9990
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Nagpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3999,
+          "closingRank": 8228
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Artificial lntelligence and Machine Learning) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4086,
+          "closingRank": 7396
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Data Science and Analytics) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4075,
+          "closingRank": 8418
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Human Computer lnteraction and Gaming Technology) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6209,
+          "closingRank": 8541
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 8190,
+          "closingRank": 9718
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (Internet of Things) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4463,
+          "closingRank": 9588
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Pune": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2845,
+          "closingRank": 5476
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4061,
+          "closingRank": 6155
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5558,
+          "closingRank": 7873
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 8403,
+          "closingRank": 8827
+        }
+      }
+    },
+    "Indian Institute of Information Technology Bhagalpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5416,
+          "closingRank": 9116
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 8195,
+          "closingRank": 9129
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 9438,
+          "closingRank": 10168
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 10406,
+          "closingRank": 11219
+        }
+      },
+      "Mathematics and Computing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6856,
+          "closingRank": 10243
+        },
+        "FEMALE_ONLY": null
+      },
+      "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 10318,
+          "closingRank": 10529
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 11213,
+          "closingRank": 11213
+        }
+      }
+    },
+    "Indian Institute of Information Technology Bhopal": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4374,
+          "closingRank": 6860
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Artificial Intelligence) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5420,
+          "closingRank": 5954
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Cyber Physical System) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5646,
+          "closingRank": 7342
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Cyber Security) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6416,
+          "closingRank": 6900
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Data Science) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3604,
+          "closingRank": 6122
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 7232,
+          "closingRank": 9202
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 6198,
+          "closingRank": 8371
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Surat": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3175,
+          "closingRank": 7837
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 8026,
+          "closingRank": 8505
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 5294,
+          "closingRank": 8904
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 9166,
+          "closingRank": 9986
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Agartala": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4576,
+          "closingRank": 9014
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 9794,
+          "closingRank": 11310
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4212,
+          "closingRank": 9163
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 8542,
+          "closingRank": 11061
+        }
+      }
+    }
+  },
+  "SC (PwD)": {
+    "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 67,
+          "closingRank": 67
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Guwahati": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 141,
+          "closingRank": 141
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kalyani, West Bengal": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 263,
+          "closingRank": 263
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT), Sri City, Chittoor": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 184,
+          "closingRank": 184
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology, Allahabad": {
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 88,
+          "closingRank": 88
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 27,
+          "closingRank": 44
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram": {
+      "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 302,
+          "closingRank": 302
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 107,
+          "closingRank": 107
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Lucknow": {
+      "Computer Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": null,
+        "FEMALE_ONLY": {
+          "openingRank": 170,
+          "closingRank": 170
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Dharwad": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 99,
+          "closingRank": 99
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 144,
+          "closingRank": 144
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Nagpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 211,
+          "closingRank": 211
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Pune": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 93,
+          "closingRank": 129
+        },
+        "FEMALE_ONLY": null
+      }
+    }
+  },
+  "ST": {
+    "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 746,
+          "closingRank": 1343
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1493,
+          "closingRank": 1493
+        }
+      },
+      "Electrical and Electronics Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1508,
+          "closingRank": 1671
+        },
+        "FEMALE_ONLY": null
+      },
+      "Integrated B. Tech.(IT) and M. Tech (IT) (5 Years, Integrated B. Tech. and M. Tech.)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1116,
+          "closingRank": 1981
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2568,
+          "closingRank": 2568
+        }
+      },
+      "Integrated B. Tech.(IT) and MBA (5 Years, Integrated B. Tech. and MBA)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2239,
+          "closingRank": 2526
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2793,
+          "closingRank": 2793
+        }
+      },
+      "Mathematics and Scientific Computing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1394,
+          "closingRank": 1494
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT)Kota, Rajasthan": {
+      "Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2830,
+          "closingRank": 3559
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4802,
+          "closingRank": 4802
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2621,
+          "closingRank": 3475
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3681,
+          "closingRank": 3832
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1655,
+          "closingRank": 3604
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4075,
+          "closingRank": 4075
+        }
+      }
+    },
+    "Indian Institute of Information Technology Guwahati": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1335,
+          "closingRank": 2701
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3079,
+          "closingRank": 3264
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3015,
+          "closingRank": 3531
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3982,
+          "closingRank": 3982
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kalyani, West Bengal": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3499,
+          "closingRank": 4176
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4314,
+          "closingRank": 4314
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4204,
+          "closingRank": 4901
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kilohrad, Sonepat, Haryana": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3181,
+          "closingRank": 4306
+        },
+        "FEMALE_ONLY": null
+      },
+      "CSE ( Data Science & Analytics) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4101,
+          "closingRank": 4443
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3806,
+          "closingRank": 4544
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Una, Himachal Pradesh": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3614,
+          "closingRank": 3981
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Cyber Security) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4542,
+          "closingRank": 4580
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Data Science) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4490,
+          "closingRank": 4605
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3118,
+          "closingRank": 4987
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3694,
+          "closingRank": 4937
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4365,
+          "closingRank": 4365
+        }
+      }
+    },
+    "Indian Institute of Information Technology (IIIT), Sri City, Chittoor": {
+      "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2718,
+          "closingRank": 3902
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2438,
+          "closingRank": 3930
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2895,
+          "closingRank": 2895
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3861,
+          "closingRank": 4141
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT), Vadodara, Gujrat": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1345,
+          "closingRank": 3451
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2494,
+          "closingRank": 2926
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2882,
+          "closingRank": 3507
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology, Allahabad": {
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 910,
+          "closingRank": 1310
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2680,
+          "closingRank": 2784
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 441,
+          "closingRank": 888
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 962,
+          "closingRank": 1879
+        }
+      },
+      "Information Technology-Business Informatics (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 916,
+          "closingRank": 952
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1893,
+          "closingRank": 1893
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram": {
+      "B.Tech in Mechanical Engineering and M.Tech in AI and Robotics (5 Years, B.Tech. + M.Tech./MS (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2782,
+          "closingRank": 3122
+        },
+        "FEMALE_ONLY": null
+      },
+      "B.Tech. in Electronics and Communication Engineering and M.Tech. in Communication Systems (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2960,
+          "closingRank": 2960
+        },
+        "FEMALE_ONLY": null
+      },
+      "B.Tech. in Electronics and Communication Engineering and M.Tech. in VLSI Design (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2651,
+          "closingRank": 2651
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3518,
+          "closingRank": 3518
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1476,
+          "closingRank": 2146
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1976,
+          "closingRank": 1976
+        }
+      },
+      "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2219,
+          "closingRank": 2375
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2683,
+          "closingRank": 2683
+        }
+      },
+      "Computer Science and Engineering with Major in Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1662,
+          "closingRank": 2148
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2009,
+          "closingRank": 2009
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1836,
+          "closingRank": 2609
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2528,
+          "closingRank": 2575
+        }
+      },
+      "Mechanical Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2977,
+          "closingRank": 3320
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3247,
+          "closingRank": 3247
+        }
+      },
+      "Smart Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3599,
+          "closingRank": 3652
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4853,
+          "closingRank": 4853
+        }
+      }
+    },
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1222,
+          "closingRank": 2003
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2205,
+          "closingRank": 2610
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1994,
+          "closingRank": 2464
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2894,
+          "closingRank": 3108
+        }
+      },
+      "Mechanical Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2739,
+          "closingRank": 2964
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4155,
+          "closingRank": 4155
+        }
+      },
+      "Smart Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3466,
+          "closingRank": 3818
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4862,
+          "closingRank": 4862
+        }
+      }
+    },
+    "Indian Institute of Information Technology Tiruchirappalli": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1400,
+          "closingRank": 2170
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3086,
+          "closingRank": 3293
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2387,
+          "closingRank": 3408
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1183,
+          "closingRank": 3853
+        }
+      }
+    },
+    "Indian Institute of Information Technology Lucknow": {
+      "Computer Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1202,
+          "closingRank": 1776
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2783,
+          "closingRank": 2783
+        }
+      },
+      "Computer Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 922,
+          "closingRank": 1751
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1822,
+          "closingRank": 1822
+        }
+      },
+      "Computer Science and Business (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2110,
+          "closingRank": 2255
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3442,
+          "closingRank": 3442
+        }
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2061,
+          "closingRank": 2178
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3716,
+          "closingRank": 3716
+        }
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Dharwad": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2789,
+          "closingRank": 3974
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1812,
+          "closingRank": 2087
+        }
+      },
+      "Data Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4160,
+          "closingRank": 4447
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3514,
+          "closingRank": 3514
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2967,
+          "closingRank": 4685
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3771,
+          "closingRank": 3771
+        }
+      }
+    },
+    "Indian Institute of Information Technology Design & Manufacturing Kurnool, Andhra Pradesh": {
+      "Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2155,
+          "closingRank": 2934
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3498,
+          "closingRank": 3498
+        }
+      },
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2046,
+          "closingRank": 2305
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 2129,
+          "closingRank": 2129
+        }
+      },
+      "Computer Science and Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 1814,
+          "closingRank": 1814
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3357,
+          "closingRank": 3398
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2713,
+          "closingRank": 3301
+        },
+        "FEMALE_ONLY": null
+      },
+      "Mechanical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3582,
+          "closingRank": 3824
+        },
+        "FEMALE_ONLY": null
+      },
+      "Mechanical Engineering with specialization in Design and Manufacturing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3549,
+          "closingRank": 3817
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kottayam": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2355,
+          "closingRank": 4217
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3526,
+          "closingRank": 4454
+        }
+      },
+      "Computer Science and Engineering with specialization in Artificial Intelligence and Data Science (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2806,
+          "closingRank": 3731
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4576,
+          "closingRank": 4576
+        }
+      },
+      "Computer Science and Engineering with specialization in Cyber Security (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3378,
+          "closingRank": 4219
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4845,
+          "closingRank": 4845
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3809,
+          "closingRank": 4152
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4659,
+          "closingRank": 4659
+        }
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Ranchi": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2581,
+          "closingRank": 4172
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (with Specialization of Data Science and Artificial Intelligence) (4 Years, B. Tech / B. Tech (Hons.))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4267,
+          "closingRank": 4382
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4567,
+          "closingRank": 4995
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (with Specialization of Embedded Systems and Internet of Things) (4 Years, B. Tech / B. Tech (Hons.))": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3404,
+          "closingRank": 4691
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Nagpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2917,
+          "closingRank": 3711
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Artificial lntelligence and Machine Learning) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2412,
+          "closingRank": 3381
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Data Science and Analytics) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2759,
+          "closingRank": 3395
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science Engineering (Human Computer lnteraction and Gaming Technology) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3927,
+          "closingRank": 4174
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3708,
+          "closingRank": 4706
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (Internet of Things) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 536,
+          "closingRank": 4628
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Pune": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2019,
+          "closingRank": 3030
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 1906,
+          "closingRank": 3331
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2587,
+          "closingRank": 3346
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3394,
+          "closingRank": 3394
+        }
+      }
+    },
+    "Indian Institute of Information Technology Bhagalpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3542,
+          "closingRank": 4956
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4662,
+          "closingRank": 4662
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4516,
+          "closingRank": 5101
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5089,
+          "closingRank": 5089
+        }
+      },
+      "Mathematics and Computing (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4652,
+          "closingRank": 5028
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 5003,
+          "closingRank": 5003
+        }
+      },
+      "Mechatronics and Automation Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 4027,
+          "closingRank": 5194
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Bhopal": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3159,
+          "closingRank": 3841
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Artificial Intelligence) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3068,
+          "closingRank": 3097
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Cyber Physical System) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3915,
+          "closingRank": 3996
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Cyber Security) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3759,
+          "closingRank": 3997
+        },
+        "FEMALE_ONLY": null
+      },
+      "Computer Science and Engineering (Data Science) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2612,
+          "closingRank": 2816
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2766,
+          "closingRank": 4749
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2688,
+          "closingRank": 4354
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Surat": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2114,
+          "closingRank": 3112
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 3605,
+          "closingRank": 3605
+        }
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 2721,
+          "closingRank": 3755
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4558,
+          "closingRank": 4558
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Agartala": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3557,
+          "closingRank": 4278
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4931,
+          "closingRank": 4931
+        }
+      }
+    },
+    "Indian Institute of Information Technology, Vadodara International Campus Diu (IIITVICD)": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 3469,
+          "closingRank": 4629
+        },
+        "FEMALE_ONLY": {
+          "openingRank": 4099,
+          "closingRank": 4099
+        }
+      }
+    }
+  },
+  "ST (PwD)": {
+    "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 75,
+          "closingRank": 75
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Dharwad": {
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 92,
+          "closingRank": 92
+        },
+        "FEMALE_ONLY": null
+      }
+    }
+  },
+  "EWS (PwD)": {
+    "Atal Bihari Vajpayee Indian Institute of Information Technology & Management Gwalior": {
+      "Integrated B. Tech.(IT) and MBA (5 Years, Integrated B. Tech. and MBA)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 219,
+          "closingRank": 219
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT)Kota, Rajasthan": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 229,
+          "closingRank": 229
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT), Sri City, Chittoor": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 295,
+          "closingRank": 295
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT), Vadodara, Gujrat": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 390,
+          "closingRank": 390
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology, Allahabad": {
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 92,
+          "closingRank": 92
+        },
+        "FEMALE_ONLY": null
+      },
+      "Information Technology (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 52,
+          "closingRank": 52
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 173,
+          "closingRank": 173
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 186,
+          "closingRank": 186
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Pt. Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacture Jabalpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 179,
+          "closingRank": 179
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 284,
+          "closingRank": 284
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Dharwad": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 308,
+          "closingRank": 308
+        },
+        "FEMALE_ONLY": null
+      },
+      "Data Science and Artificial Intelligence (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 223,
+          "closingRank": 373
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology(IIIT) Kottayam": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 378,
+          "closingRank": 378
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Ranchi": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 255,
+          "closingRank": 255
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Nagpur": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 165,
+          "closingRank": 165
+        },
+        "FEMALE_ONLY": null
+      },
+      "Electronics and Communication Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 383,
+          "closingRank": 383
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology (IIIT) Pune": {
+      "Computer Science and Engineering (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 247,
+          "closingRank": 247
+        },
+        "FEMALE_ONLY": null
+      }
+    },
+    "Indian Institute of Information Technology Bhopal": {
+      "Computer Science and Engineering (Artificial Intelligence) (4 Years, Bachelor of Technology)": {
+        "GENDER_NEUTRAL": {
+          "openingRank": 269,
+          "closingRank": 269
+        },
+        "FEMALE_ONLY": null
+      }
+    }
+  }
+}
