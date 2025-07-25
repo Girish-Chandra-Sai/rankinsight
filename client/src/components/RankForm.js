@@ -402,7 +402,7 @@ const nitCourses = [
                 setIsLoading(true);
 
                 try {
-                    const endpoint = instituteType === "NIT" ? `http://localhost:5000/nit/search` : `http://localhost:5000/iit/search`;
+                    const endpoint = instituteType === "NIT" ? "/nit/search" : "/iit/search";
                     
                     // Determine which rank to use based on category
                     let rankToUse;
